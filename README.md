@@ -4,8 +4,8 @@
 ## Description
 A Google Books API search engine application which allows users to search and save books to their profile.
 This app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. Modified existing code by replacing the existing RESTful API with an Apollo Server to use GraphQL queries and mutations to fetch and modify data as well as modified the existing authentication middleware so that it works in the context of a GraphQL API
-![mockup](https://raw.githubusercontent.com/Kaynalem/book-search-engine/master/assets/images/mockup2.PNG)
-![mockup](https://raw.githubusercontent.com/Kaynalem/book-search-engine/master/assets/images/mockup.PNG)
+![mockup](https://raw.githubusercontent.com/Kaynalem/book-search-engine/master/assets/mockup2.PNG)
+![mockup](https://raw.githubusercontent.com/Kaynalem/book-search-engine/master/assets/mockup.PNG)
 ## Deployed Application
 [Click here](https://kaynalem-book-search.herokuapp.com/) to use the deployed application!
 ## Table of Contents
