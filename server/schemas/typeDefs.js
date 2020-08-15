@@ -19,7 +19,7 @@ const typeDefs = gql`
         link: String
     }
 
-    type bookInput {
+    input bookInput {
         bookId: String
         authors: [String]
         description: String
